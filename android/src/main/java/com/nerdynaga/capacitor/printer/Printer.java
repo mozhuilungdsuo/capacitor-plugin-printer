@@ -1,4 +1,4 @@
-package com.mozhuilungdsuo.capacitor.printer;
+package com.nerdynaga.capacitor.printer;
 
 import android.util.Log;
 
