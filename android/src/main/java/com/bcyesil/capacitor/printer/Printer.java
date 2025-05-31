@@ -1,4 +1,4 @@
-package com.bcyesil.capacitor.printer;
+package com.mozhuilungdsuo.capacitor.printer;
 
 import android.util.Log;
 

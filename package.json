@@ -1,5 +1,5 @@
 {
-  "name": "@bcyesil/capacitor-plugin-printer",
+  "name": "@mozhuilungdsuo/capacitor-plugin-printer",
   "version": "0.0.5",
   "description": "Capacitor plugin for printing HTML format value iOS/Android apps.",
   "main": "dist/plugin.cjs.js",
@@ -11,16 +11,16 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "BcyesilCapacitorPluginPrinter.podspec"
+    "MozhuiLungdsuoCapacitorPluginPrinter.podspec"
   ],
-  "author": "BarisCanYesil",
+  "author": "Mozhui Lungdsuo",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BarisCanYesil/capacitor-plugin-printer.git"
+    "url": "git+https://github.com/mozhuilungdsuo/capacitor-plugin-printer.git"
   },
   "bugs": {
-    "url": "https://github.com/BarisCanYesil/capacitor-plugin-printer/issues"
+    "url": "https://github.com/mozhuilungdsuo/capacitor-plugin-printer/issues"
   },
   "keywords": [
     "capacitor",

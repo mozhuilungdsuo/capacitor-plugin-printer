@@ -1,8 +1,8 @@
 <h1 align="center">Capacitor Printer Plugin</h1><br>
-<p align="center"><strong><code>@bcyesil/capacitor-plugin-printer</code></strong></p>
+<p align="center"><strong><code>@mozhuilungdsuo/capacitor-plugin-printer</code></strong></p>
 <p align="center">
   <img src="https://img.shields.io/maintenance/yes/2024?style=for-the-badge" />
-  <a href="https://www.npmjs.com/package/@bcyesil/capacitor-plugin-printer"><img src="https://img.shields.io/npm/dw/@bcyesil/capacitor-plugin-printer?style=for-the-badge" /></a>
+  <a href="https://www.npmjs.com/package/@mozhuilungdsuo/capacitor-plugin-printer"><img src="https://img.shields.io/npm/dw/@mozhuilungdsuo/capacitor-plugin-printer?style=for-the-badge" /></a>
 </p>
 <p align="center">
 Capacitor plugin for printing HTML, plain text, and images in iOS/Android apps. Supports additional features like Base64 PDF and image printing (from v0.0.5).
@@ -36,13 +36,13 @@ Printer.print({ content: '<b>Lorem ipsum...</b>'})
 
 ## Installation
 ```bash
-npm install @bcyesil/capacitor-plugin-printer
+npm install @mozhuilungdsuo/capacitor-plugin-printer
 npx cap sync
 ```
 
 ## Usage
  ```typescript
-import { Printer } from '@bcyesil/capacitor-plugin-printer';
+import { Printer } from '@mozhuilungdsuo/capacitor-plugin-printer';
 
 .
 .
