@@ -19,8 +19,8 @@ Printer.print({ content: '<b>Lorem ipsum...</b>'})
 ### Versions
 | Capacitor Version  | Plugin Version |
 | ------------------ | ------------------ |
-| v5.x | v0.0.3 |
-| v6.x | v0.0.4+ |
+
+| v7.x | v0.0.4+ |
 
 ### Supported Platforms
 
