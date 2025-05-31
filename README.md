@@ -36,13 +36,13 @@ Printer.print({ content: '<b>Lorem ipsum...</b>'})
 
 ## Installation
 ```bash
-npm install @mozhuilungdsuo/capacitor-plugin-printer
+npm install @nerdynaga/capacitor-plugin-printer
 npx cap sync
 ```
 
 ## Usage
  ```typescript
-import { Printer } from '@mozhuilungdsuo/capacitor-plugin-printer';
+import { Printer } from '@nerdynaga/capacitor-plugin-printer';
 
 .
 .
