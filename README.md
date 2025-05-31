@@ -1,5 +1,5 @@
 <h1 align="center">Capacitor Printer Plugin</h1><br>
-<p align="center"><strong><code>@mozhuilungdsuo/capacitor-plugin-printer</code></strong></p>
+<p align="center"><strong><code>@nerdynaga/capacitor-plugin-printer</code></strong></p>
 <p align="center">
   <img src="https://img.shields.io/maintenance/yes/2024?style=for-the-badge" />
   <a href="https://www.npmjs.com/package/@mozhuilungdsuo/capacitor-plugin-printer"><img src="https://img.shields.io/npm/dw/@mozhuilungdsuo/capacitor-plugin-printer?style=for-the-badge" /></a>
