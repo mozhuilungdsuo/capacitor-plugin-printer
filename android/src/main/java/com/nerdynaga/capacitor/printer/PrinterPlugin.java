@@ -45,7 +45,11 @@ public class PrinterPlugin extends Plugin {
 
                     if (content.startsWith("base64:")) {
                         handleBase64Content(call, content, jobName, orientation);
-                    } else {
+                    } 
+                    else if (content.startsWith("data:")) {
+                        handleBase64Content(call, content, jobName, orientation);
+                    } 
+                    else {
                         handleHtmlContent(call, content, jobName, orientation);
                     }
                 }
